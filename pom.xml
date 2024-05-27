@@ -141,8 +141,11 @@
 					<downloadJavadocs>true</downloadJavadocs>
 					<wtpversion>2.0</wtpversion>
 					<wtpContextName>maven-web-application</wtpContextName>
-				</configurationmmmmmmmmmm>
+				</configuration>
 			</plugin>
+
+
+	
 			
 </plugins>
 	</build>
